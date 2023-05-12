@@ -2,15 +2,14 @@
 
 
 ## Table of Contents
-- [Introduction]()
-- [Installation]()
-- [Prerequisites]()
-- [Technologies Used]()
-- [Usage]()
-- [Output of Project]()
-- [Contributing]()
-- [License]()
-- [Acknowledgments]()
+- [Introduction](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#introduction)
+- [Installation](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#installation)
+- [Prerequisites](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#prerequisites-)
+- [Technologies Used](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#technologies-used)
+- [Usage](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#usage)
+- [Contributing](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#contributing)
+- [License](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#license)
+- [Acknowledgments](https://github.com/Dasari1672/Student-Registration-Form/blob/main/README.md#acknowledgments)
 
 ## Introduction
 
@@ -34,8 +33,6 @@ This project is a web-based student registration form that allows students to en
 ## Usage
 - Start the server: npm start
 - Open the app in your browser: http://localhost:8080
-
-## Output of Project
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
