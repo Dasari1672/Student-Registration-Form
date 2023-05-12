@@ -2,15 +2,15 @@
 
 
 ## Table of Contents
-- [Introduction]
-- [Installation]
-- [Prerequisites]
-- [Technologies Used]
-- [Usage]
-- [Output of Project]
-- [Contributing]
-- [License]
-- [Acknowledgments]
+- [Introduction]()
+- [Installation]()
+- [Prerequisites]()
+- [Technologies Used]()
+- [Usage]()
+- [Output of Project]()
+- [Contributing]()
+- [License]()
+- [Acknowledgments]()
 
 ## Introduction
 
